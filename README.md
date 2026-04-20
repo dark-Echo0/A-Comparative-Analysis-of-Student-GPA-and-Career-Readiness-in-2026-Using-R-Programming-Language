@@ -1,4 +1,5 @@
 # A Comparative Analysis of Student GPA and Career Readiness in 2026 Using R Programming Language
+[View the AI Impact Analysis Report](./AI_Impact_Student_Life_2026/AI_Impact_Analysis_Report.html)
 
 ## Objective
 To evaluate whether the widespread adoption of LLMs in higher education functions primarily as a tool for academic stabilization and time management, and to determine if this technical integration translates into measurable professional confidence or if such confidence remains dependent on human-centric, non-computable traits.
