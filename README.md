@@ -57,6 +57,8 @@ Ultimately, the future of AI in education will not be defined by tool adoption, 
 ## Disclaimer
 This report was developed for educational purposes only. The analysis utilizes an artificially generated dataset sourced from Kaggle to simulate real-world exploratory data analysis (EDA) and professional documentation practices. All statistical modeling, including the regression analysis used to evaluate variable correlations, was performed using the R programming language. This project is intended to demonstrate data science workflows and technical proficiency in statistical computing.
 
+The dataset is available from these link (How AI is Changing Life | AI and Student Life 2026)[https://www.kaggle.com/datasets/sohaibdevv/ai-and-student-life-2026-the-new-normal]
+
 
 
 
